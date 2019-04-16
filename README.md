@@ -58,12 +58,12 @@ pancakes happy side up.
 
 Input	|	Output
 -----	| ------
-5	|
--	|	Case #1: 1
--+	|	Case #2: 1
-+-	|	Case #3: 2
-+++	|	Case #4: 0
---+-	|	Case #5: 3
+`5`	|
+`-`	|	Case #1: 1
+`-+`	|	Case #2: 1
+`+-`	|	Case #3: 2
+`+++`	|	Case #4: 0
+`--+-`	|	Case #5: 3
 
 In Case #1, you only need to execute the maneuver once, flipping the first (and only) pancake.
 
